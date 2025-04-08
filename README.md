@@ -3,13 +3,12 @@
 
 - 🌱 I graduated from FPT polytechnic and have a certification in C and JavaScript from University Of Science. **I’m currently learning course on Udemy and English at SunUni Academy**
 
-- 🤝 This is [My CV](https://drive.google.com/file/d/19-wquzZfyasp2ibi-Gxgs3SmguSz6oyM/view?usp=sharing)
+- 🤝 This is [My CV](https://drive.google.com/file/d/1s1ve1cfnHFKTGeilv0LSimuXCB4eP7F1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tu%e1%ba%a5n-v%c4%83n-10b851224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tu%e1%ba%a5n-v%c4%83n-10b851224/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/27879609/tu%e1%ba%a5n-h%c3%a0-v%c4%83n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27879609/tu%e1%ba%a5n-h%c3%a0-v%c4%83n" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100095143075016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100095143075016" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/havantuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tu%e1%ba%a5n-v%c4%83n-10b851224/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/van.tuan.56022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100095143075016" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
